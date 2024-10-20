@@ -20,7 +20,8 @@ This program implements a simple calculator using switch-case statements to perf
 
 ### Program: 'Implement_Simple_Calculator.java'
 
-How to Run the Programs
+### How to Run the Programs:
+
 Ensure you have Java installed on your machine.
 Clone the repository to your local machine.
 Navigate to the directory containing the Java files.
@@ -30,8 +31,3 @@ javac FileName.java
 Run the compiled program using:
 java FileName
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Thanks to online resources and documentation for assisting in understanding Java fundamentals.
