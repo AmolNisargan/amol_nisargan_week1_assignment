@@ -30,12 +30,14 @@ This program implements a simple calculator using switch-case statements to perf
 
 4. Compile each Java file using:
 
-javac FileName.java
+   javac FileName.java
 
 6. Run the compiled program using:
 
-java FileName
+   java FileName
 
 
-### Thank You!.
+
+
+# Thank You!.
 
