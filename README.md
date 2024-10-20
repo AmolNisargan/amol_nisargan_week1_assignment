@@ -23,11 +23,16 @@ This program implements a simple calculator using switch-case statements to perf
 ### How to Run the Programs:
 
 Ensure you have Java installed on your machine.
+
 Clone the repository to your local machine.
+
 Navigate to the directory containing the Java files.
+
 Compile each Java file using:
 
 javac FileName.java
+
 Run the compiled program using:
+
 java FileName
 
